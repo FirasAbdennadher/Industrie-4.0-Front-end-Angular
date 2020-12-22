@@ -1,0 +1,88 @@
+<nav class="navbar navbar-default">
+  <div class="container">
+    <!-- Brand and toggle get grouped for better mobile display -->
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1"
+              aria-expanded="false">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+    </div>
+    <!-- Collect the nav links, forms, and other content for toggling -->
+    <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+      <ul class="nav navbar-nav">
+        <li class="active">
+          <a routerLink="/home" routerLinkActive="active">Home</a>
+        </li>
+
+        <li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button">Speakers
+            <span class="caret"></span>
+          </a>
+          <ul class="dropdown-menu" >
+            <li><a routerLink="/speaker_firstedition" routerLinkActive="active" style="color: currentColor;">Speaker(1st Edition)</a></li>
+            <li><a routerLink="/speaker_secondedition" routerLinkActive="active" style="color: currentColor;">Speaker (2nd Editon)</a></li>
+            <li><a routerLink="/speaker_thirdedition" routerLinkActive="active" style="color: currentColor;">Speaker (3rd Editon)</a></li>
+          </ul>
+        </li>
+        <li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button">Programs
+            <span class="caret"></span>
+          </a>
+          <ul class="dropdown-menu" >
+            <li><a routerLink="/program_firstedition" routerLinkActive="active" style="color: currentColor;">Program(1st Edition)</a></li>
+            <li><a routerLink="/program_secondedition" routerLinkActive="active" style="color: currentColor;">Program(2nd Editon)</a></li>
+            <li><a routerLink="/program_thirdedition" routerLinkActive="active" style="color: currentColor;">Program (3rd Editon)</a></li>
+          </ul>
+        </li>
+
+        <li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button">Editions
+            <span class="caret"></span>
+          </a>
+          <ul class="dropdown-menu" >
+            <li>
+              <a routerLink="/firstedit" routerLinkActive="active" style="color: currentColor;">1st Edition</a>
+            </li>
+            <li>
+              <a routerLink="/secondedit" routerLinkActive="active" style="color: currentColor;">2nd Edition</a>
+            </li>
+
+          </ul>
+        </li>
+        <li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button">Teams
+            <span class="caret"></span>
+          </a>
+          <ul class="dropdown-menu" >
+            <li><a routerLink="/team_firstedition" routerLinkActive="active" style="color: currentColor;">Team(1st Edition)</a></li>
+            <li><a routerLink="/team_secondedition" routerLinkActive="active" style="color: currentColor;">Team (2nd Editon)</a></li>
+            <li><a routerLink="/team_thirdedition" routerLinkActive="active" style="color: currentColor;" disabled="true">Team (3rd Editon)</a></li>
+          </ul>
+        </li>
+        <li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button">Gallery
+            <span class="caret"></span>
+          </a>
+          <ul class="dropdown-menu" >
+            <li><a routerLink="/team_firstedition" routerLinkActive="active" style="color: currentColor;">Gallery(1st Edition)</a></li>
+            <li><a routerLink="/team_secondedition" routerLinkActive="active" style="color: currentColor;">Gallery (2nd Editon)</a></li>
+            <li><a routerLink="/team_thirdedition" routerLinkActive="active" style="color: currentColor;" disabled="true">Gallery (3rd Editon)</a></li>
+          </ul>
+        </li>
+        <li>
+          <a routerLink="/register" routerLinkActive="active" >Registration</a>
+        </li>
+
+        <li>
+          <a routerLink="/contact" routerLinkActive="active" >Contact</a>
+        </li>
+
+      </ul>
+    </div>
+    <!-- /.navbar-collapse -->
+  </div>
+  <!-- /.container-fluid -->
+</nav>

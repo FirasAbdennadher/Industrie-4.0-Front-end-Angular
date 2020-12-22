@@ -1,0 +1,216 @@
+b3VwSWQ+MjEyNDwvcGtjOkdyb3VwSWQ+DQogICAgICA8cGtjOkFsZ29yaXRobUlkPm1zZnQ6cm0vYWxnb3JpdGhtL3BrZXkvMjAwOTwvcGtjOkFsZ29yaXRobUlkPg0KICAgICAgPHBrYzpQdWJsaWNLZXlWYWx1ZT5iWE5tZERwd2EyVjVMekl3TURrdlkzSjVjSFJ2Y0hKdlptbHNaUzlvYldGakwzTm9ZVEkxTmc9PTwvcGtjOlB1YmxpY0tleVZhbHVlPg0KICAgIDwvcGtjOlB1YmxpY0tleT48cGtjOlB1YmxpY0tleT4NCiAgICAgIDxwa2M6R3JvdXBJZD4yMTI1PC9wa2M6R3JvdXBJZD4NCiAgICAgIDxwa2M6QWxnb3JpdGhtSWQ+bXNmdDpybS9hbGdvcml0aG0vcGtleS8yMDA5PC9wa2M6QWxnb3JpdGhtSWQ+DQogICAgICA8cGtjOlB1YmxpY0tleVZhbHVlPmJYTm1kRHB3YTJWNUx6SXdNRGt2WTNKNWNIUnZjSEp2Wm1sc1pTOW9iV0ZqTDNOb1lUSTFOZz09PC9wa2M6UHVibGljS2V5VmFsdWU+DQogICAgPC9wa2M6UHVibGljS2V5Pjxwa2M6UHVibGljS2V5Pg0KICAgICAgPHBrYzpHcm91cElkPjIxMjY8L3BrYzpHcm91cElkPg0KICAgICAgPHBrYzpBbGdvcml0aG1JZD5tc2Z0OnJtL2FsZ29yaXRobS9wa2V5LzIwMDk8L3BrYzpBbGdvcml0aG1JZD4NCiAgICAgIDxwa2M6UHVibGljS2V5VmFsdWU+YlhObWREcHdhMlY1THpJd01Ea3ZZM0o1Y0hSdmNISnZabWxzWlM5b2JXRmpMM05vWVRJMU5nPT08L3BrYzpQdWJsaWNLZXlWYWx1ZT4NCiAgICA8L3BrYzpQdWJsaWNLZXk+PHBrYzpQdWJsaWNLZXk+DQogICAgICA8cGtjOkdyb3VwSWQ+MjEyNzwvcGtjOkdyb3VwSWQ+DQogICAgICA8cGtjOkFsZ29yaXRobUlkPm1zZnQ6cm0vYWxnb3JpdGhtL3BrZXkvMjAwOTwvcGtjOkFsZ29yaXRobUlkPg0KICAgICAgPHBrYzpQdWJsaWNLZXlWYWx1ZT5iWE5tZERwd2EyVjVMekl3TURrdlkzSjVjSFJ2Y0hKdlptbHNaUzlvYldGakwzTm9ZVEkxTmc9PTwvcGtjOlB1YmxpY0tleVZhbHVlPg0KICAgIDwvcGtjOlB1YmxpY0tleT48cGtjOlB1YmxpY0tleT4NCiAgICAgIDxwa2M6R3JvdXBJZD4yMTI4PC9wa2M6R3JvdXBJZD4NCiAgICAgIDxwa2M6QWxnb3JpdGhtSWQ+bXNmdDpybS9hbGdvcml0aG0vcGtleS8yMDA5PC9wa2M6QWxnb3JpdGhtSWQ+DQogICAgICA8cGtjOlB1YmxpY0tleVZhbHVlPmJYTm1kRHB3YTJWNUx6SXdNRGt2WTNKNWNIUnZjSEp2Wm1sc1pTOW9iV0ZqTDNOb1lUSTFOZz09PC9wa2M6UHVibGljS2V5VmFsdWU+DQogICAgPC9wa2M6UHVibGljS2V5Pjxwa2M6UHVibGljS2V5Pg0KICAgICAgPHBrYzpHcm91cElkPjIxMjk8L3BrYzpHcm91cElkPg0KICAgICAgPHBrYzpBbGdvcml0aG1JZD5tc2Z0OnJtL2FsZ29yaXRobS9wa2V5LzIwMDk8L3BrYzpBbGdvcml0aG1JZD4NCiAgICAgIDxwa2M6UHVibGljS2V5VmFsdWU+YlhObWREcHdhMlY1THpJd01Ea3ZZM0o1Y0hSdmNISnZabWxzWlM5b2JXRmpMM05vWVRJMU5nPT08L3BrYzpQdWJsaWNLZXlWYWx1ZT4NCiAgICA8L3BrYzpQdWJsaWNLZXk+PHBrYzpQdWJsaWNLZXk+DQogICAgICA8cGtjOkdyb3VwSWQ+MjEzMDwvcGtjOkdyb3VwSWQ+DQogICAgICA8cGtjOkFsZ29yaXRobUlkPm1zZnQ6cm0vYWxnb3JpdGhtL3BrZXkvMjAwOTwvcGtjOkFsZ29yaXRobUlkPg0KICAgICAgPHBrYzpQdWJsaWNLZXlWYWx1ZT5iWE5tZERwd2EyVjVMekl3TURrdlkzSjVjSFJ2Y0hKdlptbHNaUzlvYldGakwzTm9ZVEkxTmc9PTwvcGtjOlB1YmxpY0tleVZhbHVlPg0KICAgIDwvcGtjOlB1YmxpY0tleT48cGtjOlB1YmxpY0tleT4NCiAgICAgIDxwa2M6R3JvdXBJZD4yMTMxPC9wa2M6R3JvdXBJZD4NCiAgICAgIDxwa2M6QWxnb3JpdGhtSWQ+bXNmdDpybS9hbGdvcml0aG0vcGtleS8yMDA5PC9wa2M6QWxnb3JpdGhtSWQ+DQogICAgICA8cGtjOlB1YmxpY0tleVZhbHVlPmJYTm1kRHB3YTJWNUx6SXdNRGt2WTNKNWNIUnZjSEp2Wm1sc1pTOW9iV0ZqTDNOb1lUSTFOZz09PC9wa2M6UHVibGljS2V5VmFsdWU+DQogICAgPC9wa2M6UHVibGljS2V5Pjxwa2M6UHVibGljS2V5Pg0KICAgICAgPHBrYzpHcm91cElkPjIxMzI8L3BrYzpHcm91cElkPg0KICAgICAgPHBrYzpBbGdvcml0aG1JZD5tc2Z0OnJtL2FsZ29yaXRobS9wa2V5LzIwMDk8L3BrYzpBbGdvcml0aG1JZD4NCiAgICAgIDxwa2M6UHVibGljS2V5VmFsdWU+YlhObWREcHdhMlY1THpJd01Ea3ZZM0o1Y0hSdmNISnZabWxzWlM5b2JXRmpMM05vWVRJMU5nPT08L3BrYzpQdWJsaWNLZXlWYWx1ZT4NCiAgICA8L3BrYzpQdWJsaWNLZXk+PHBrYzpQdWJsaWNLZXk+DQogICAgICA8cGtjOkdyb3VwSWQ+MjEzMzwvcGtjOkdyb3VwSWQ+DQogICAgICA8cGtjOkFsZ29yaXRobUlkPm1zZnQ6cm0vYWxnb3JpdGhtL3BrZXkvMjAwOTwvcGtjOkFsZ29yaXRobUlkPg0KICAgICAgPHBrYzpQdWJsaWNLZXlWYWx1ZT5iWE5tZERwd2EyVjVMekl3TURrdlkzSjVjSFJ2Y0hKdlptbHNaUzlvYldGakwzTm9ZVEkxTmc9PTwvcGtjOlB1YmxpY0tleVZhbHVlPg0KICAgIDwvcGtjOlB1YmxpY0tleT48cGtjOlB1YmxpY0tleT4NCiAgICAgIDxwa2M6R3JvdXBJZD4yMTM0PC9wa2M6R3JvdXBJZD4NCiAgICAgIDxwa2M6QWxnb3JpdGhtSWQ+bXNmdDpybS9hbGdvcml0aG0vcGtleS8yMDA5PC9wa2M6QWxnb3JpdGhtSWQ+DQogICAgICA8cGtjOlB1YmxpY0tleVZhbHVlPmJYTm1kRHB3YTJWNUx6SXdNRGt2WTNKNWNIUnZjSEp2Wm1sc1pTOW9iV0ZqTDNOb1lUSTFOZz09PC9wa2M6UHVibGljS2V5VmFsdWU+DQogICAgPC9wa2M6UHVibGljS2V5Pjxwa2M6UHVibGljS2V5Pg0KICAgICAgPHBrYzpHcm91cElkPjIxMzU8L3BrYzpHcm91cElkPg0KICAgICAgPHBrYzpBbGdvcml0aG1JZD5tc2Z0OnJtL2FsZ29yaXRobS9wa2V5LzIwMDk8L3BrYzpBbGdvcml0aG1JZD4NCiAgICAgIDxwa2M6UHVibGljS2V5VmFsdWU+YlhObWREcHdhMlY1THpJd01Ea3ZZM0o1Y0hSdmNISnZabWxzWlM5b2JXRmpMM05vWVRJMU5nPT08L3BrYzpQdWJsaWNLZXlWYWx1ZT4NCiAgICA8L3BrYzpQdWJsaWNLZXk+PHBrYzpQdWJsaWNLZXk+DQogICAgICA8cGtjOkdyb3VwSWQ+MjEzNjwvcGtjOkdyb3VwSWQ+DQogICAgICA8cGtjOkFsZ29yaXRobUlkPm1zZnQ6cm0vYWxnb3JpdGhtL3BrZXkvMjAwOTwvcGtjOkFsZ29yaXRobUlkPg0KICAgICAgPHBrYzpQdWJsaWNLZXlWYWx1ZT5iWE5tZERwd2EyVjVMekl3TURrdlkzSjVjSFJ2Y0hKdlptbHNaUzlvYldGakwzTm9ZVEkxTmc9PTwvcGtjOlB1YmxpY0tleVZhbHVlPg0KICAgIDwvcGtjOlB1YmxpY0tleT48cGtjOlB1YmxpY0tleT4NCiAgICAgIDxwa2M6R3JvdXBJZD4yMTM3PC9wa2M6R3JvdXBJZD4NCiAgICAgIDxwa2M6QWxnb3JpdGhtSWQ+bXNmdDpybS9hbGdvcml0aG0vcGtleS8yMDA5PC9wa2M6QWxnb3JpdGhtSWQ+DQogICAgICA8cGtjOlB1YmxpY0tleVZhbHVlPmJYTm1kRHB3YTJWNUx6SXdNRGt2WTNKNWNIUnZjSEp2Wm1sc1pTOW9iV0ZqTDNOb1lUSTFOZz09PC9wa2M6UHVibGljS2V5VmFsdWU+DQogICAgPC9wa2M6UHVibGljS2V5Pjxwa2M6UHVibGljS2V5Pg0KICAgICAgPHBrYzpHcm91cElkPjIxMzg8L3BrYzpHcm91cElkPg0KICAgICAgPHBrYzpBbGdvcml0aG1JZD5tc2Z0OnJtL2FsZ29yaXRobS9wa2V5LzIwMDk8L3BrYzpBbGdvcml0aG1JZD4NCiAgICAgIDxwa2M6UHVibGljS2V5VmFsdWU+YlhObWREcHdhMlY1THpJd01Ea3ZZM0o1Y0hSdmNISnZabWxzWlM5b2JXRmpMM05vWVRJMU5nPT08L3BrYzpQdWJsaWNLZXlWYWx1ZT4NCiAgICA8L3BrYzpQdWJsaWNLZXk+PHBrYzpQdWJsaWNLZXk+DQogICAgICA8cGtjOkdyb3VwSWQ+MjEzOTwvcGtjOkdyb3VwSWQ+DQogICAgICA8cGtjOkFsZ29yaXRobUlkPm1zZnQ6cm0vYWxnb3JpdGhtL3BrZXkvMjAwOTwvcGtjOkFsZ29yaXRobUlkPg0KICAgICAgPHBrYzpQdWJsaWNLZXlWYWx1ZT5iWE5tZERwd2EyVjVMekl3TURrdlkzSjVjSFJ2Y0hKdlptbHNaUzlvYldGakwzTm9ZVEkxTmc9PTwvcGtjOlB1YmxpY0tleVZhbHVlPg0KICAgIDwvcGtjOlB1YmxpY0tleT48cGtjOlB1YmxpY0tleT4NCiAgICAgIDxwa2M6R3JvdXBJZD4yMTQwPC9wa2M6R3JvdXBJZD4NCiAgICAgIDxwa2M6QWxnb3JpdGhtSWQ+bXNmdDpybS9hbGdvcml0aG0vcGtleS8yMDA5PC9wa2M6QWxnb3JpdGhtSWQ+DQogICAgICA8cGtjOlB1YmxpY0tleVZhbHVlPmJYTm1kRHB3YTJWNUx6SXdNRGt2WTNKNWNIUnZjSEp2Wm1sc1pTOW9iV0ZqTDNOb1lUSTFOZz09PC9wa2M6UHVibGljS2V5VmFsdWU+DQogICAgPC9wa2M6UHVibGljS2V5Pjxwa2M6UHVibGljS2V5Pg0KICAgICAgPHBrYzpHcm91cElkPjIxNDE8L3BrYzpHcm91cElkPg0KICAgICAgPHBrYzpBbGdvcml0aG1JZD5tc2Z0OnJtL2FsZ29yaXRobS9wa2V5LzIwMDk8L3BrYzpBbGdvcml0aG1JZD4NCiAgICAgIDxwa2M6UHVibGljS2V5VmFsdWU+YlhObWREcHdhMlY1THpJd01Ea3ZZM0o1Y0hSdmNISnZabWxzWlM5b2JXRmpMM05vWVRJMU5nPT08L3BrYzpQdWJsaWNLZXlWYWx1ZT4NCiAgICA8L3BrYzpQdWJsaWNLZXk+PHBrYzpQdWJsaWNLZXk+DQogICAgICA8cGtjOkdyb3VwSWQ+MjE0MjwvcGtjOkdyb3VwSWQ+DQogICAgICA8cGtjOkFsZ29yaXRobUlkPm1zZnQ6cm0vYWxnb3JpdGhtL3BrZXkvMjAwOTwvcGtjOkFsZ29yaXRobUlkPg0KICAgICAgPHBrYzpQdWJsaWNLZXlWYWx1ZT5iWE5tZERwd2EyVjVMekl3TURrdlkzSjVjSFJ2Y0hKdlptbHNaUzlvYldGakwzTm9ZVEkxTmc9PTwvcGtjOlB1YmxpY0tleVZhbHVlPg0KICAgIDwvcGtjOlB1YmxpY0tleT48cGtjOlB1YmxpY0tleT4NCiAgICAgIDxwa2M6R3JvdXBJZD4yMTQzPC9wa2M6R3JvdXBJZD4NCiAgICAgIDxwa2M6QWxnb3JpdGhtSWQ+bXNmdDpybS9hbGdvcml0aG0vcGtleS8yMDA5PC9wa2M6QWxnb3JpdGhtSWQ+DQogICAgICA8cGtjOlB1YmxpY0tleVZhbHVlPmJYTm1kRHB3YTJWNUx6SXdNRGt2WTNKNWNIUnZjSEp2Wm1sc1pTOW9iV0ZqTDNOb1lUSTFOZz09PC9wa2M6UHVibGljS2V5VmFsdWU+DQogICAgPC9wa2M6UHVibGljS2V5Pjxwa2M6UHVibGljS2V5Pg0KICAgICAgPHBrYzpHcm91cElkPjIxNDQ8L3BrYzpHcm91cElkPg0KICAgICAgPHBrYzpBbGdvcml0aG1JZD5tc2Z0OnJtL2FsZ29yaXRobS9wa2V5LzIwMDk8L3BrYzpBbGdvcml0aG1JZD4NCiAgICAgIDxwa2M6UHVibGljS2V5VmFsdWU+YlhObWREcHdhMlY1THpJd01Ea3ZZM0o1Y0hSdmNISnZabWxzWlM5b2JXRmpMM05vWVRJMU5nPT08L3BrYzpQdWJsaWNLZXlWYWx1ZT4NCiAgICA8L3BrYzpQdWJsaWNLZXk+PHBrYzpQdWJsaWNLZXk+DQogICAgICA8cGtjOkdyb3VwSWQ+MjE0NzwvcGtjOkdyb3VwSWQ+DQogICAgICA8cGtjOkFsZ29yaXRobUlkPm1zZnQ6cm0vYWxnb3JpdGhtL3BrZXkvMjAwOTwvcGtjOkFsZ29yaXRobUlkPg0KICAgICAgPHBrYzpQdWJsaWNLZXlWYWx1ZT5iWE5tZERwd2EyVjVMekl3TURrdlkzSjVjSFJ2Y0hKdlptbHNaUzlvYldGakwzTm9ZVEkxTmc9PTwvcGtjOlB1YmxpY0tleVZhbHVlPg0KICAgIDwvcGtjOlB1YmxpY0tleT48cGtjOlB1YmxpY0tleT4NCiAgICAgIDxwa2M6R3JvdXBJZD4yMTQ4PC9wa2M6R3JvdXBJZD4NCiAgICAgIDxwa2M6QWxnb3JpdGhtSWQ+bXNmdDpybS9hbGdvcml0aG0vcGtleS8yMDA5PC9wa2M6QWxnb3JpdGhtSWQ+DQogICAgICA8cGtjOlB1YmxpY0tleVZhbHVlPmJYTm1kRHB3YTJWNUx6SXdNRGt2WTNKNWNIUnZjSEp2Wm1sc1pTOW9iV0ZqTDNOb1lUSTFOZz09PC9wa2M6UHVibGljS2V5VmFsdWU+DQogICAgPC9wa2M6UHVibGljS2V5Pjxwa2M6UHVibGljS2V5Pg0KICAgICAgPHBrYzpHcm91cElkPjIxNDk8L3BrYzpHcm91cElkPg0KICAgICAgPHBrYzpBbGdvcml0aG1JZD5tc2Z0OnJtL2FsZ29yaXRobS9wa2V5LzIwMDk8L3BrYzpBbGdvcml0aG1JZD4NCiAgICAgIDxwa2M6UHVibGljS2V5VmFsdWU+YlhObWREcHdhMlY1THpJd01Ea3ZZM0o1Y0hSdmNISnZabWxzWlM5b2JXRmpMM05vWVRJMU5nPT08L3BrYzpQdWJsaWNLZXlWYWx1ZT4NCiAgICA8L3BrYzpQdWJsaWNLZXk+PHBrYzpQdWJsaWNLZXk+DQogICAgICA8cGtjOkdyb3VwSWQ+MjE1MDwvcGtjOkdyb3VwSWQ+DQogICAgICA8cGtjOkFsZ29yaXRobUlkPm1zZnQ6cm0vYWxnb3JpdGhtL3BrZXkvMjAwOTwvcGtjOkFsZ29yaXRobUlkPg0KICAgICAgPHBrYzpQdWJsaWNLZXlWYWx1ZT5iWE5tZERwd2EyVjVMekl3TURrdlkzSjVjSFJ2Y0hKdlptbHNaUzlvYldGakwzTm9ZVEkxTmc9PTwvcGtjOlB1YmxpY0tleVZhbHVlPg0KICAgIDwvcGtjOlB1YmxpY0tleT48cGtjOlB1YmxpY0tleT4NCiAgICAgIDxwa2M6R3JvdXBJZD4yMTUxPC9wa2M6R3JvdXBJZD4NCiAgICAgIDxwa2M6QWxnb3JpdGhtSWQ+bXNmdDpybS9hbGdvcml0aG0vcGtleS8yMDA5PC9wa2M6QWxnb3JpdGhtSWQ+DQogICAgICA8cGtjOlB1YmxpY0tleVZhbHVlPmJYTm1kRHB3YTJWNUx6SXdNRGt2WTNKNWNIUnZjSEp2Wm1sc1pTOW9iV0ZqTDNOb1lUSTFOZz09PC9wa2M6UHVibGljS2V5VmFsdWU+DQogICAgPC9wa2M6UHVibGljS2V5Pjxwa2M6UHVibGljS2V5Pg0KICAgICAgPHBrYzpHcm91cElkPjIxNTI8L3BrYzpHcm91cElkPg0KICAgICAgPHBrYzpBbGdvcml0aG1JZD5tc2Z0OnJtL2FsZ29yaXRobS9wa2V5LzIwMDk8L3BrYzpBbGdvcml0aG1JZD4NCiAgICAgIDxwa2M6UHVibGljS2V5VmFsdWU+YlhObWREcHdhMlY1THpJd01Ea3ZZM0o1Y0hSdmNISnZabWxzWlM5b2JXRmpMM05vWVRJMU5nPT08L3BrYzpQdWJsaWNLZXlWYWx1ZT4NCiAgICA8L3BrYzpQdWJsaWNLZXk+PHBrYzpQdWJsaWNLZXk+DQogICAgICA8cGtjOkdyb3VwSWQ+MjE1MzwvcGtjOkdyb3VwSWQ+DQogICAgICA8cGtjOkFsZ29yaXRobUlkPm1zZnQ6cm0vYWxnb3JpdGhtL3BrZXkvMjAwOTwvcGtjOkFsZ29yaXRobUlkPg0KICAgICAgPHBrYzpQdWJsaWNLZXlWYWx1ZT5iWE5tZERwd2EyVjVMekl3TURrdlkzSjVjSFJ2Y0hKdlptbHNaUzlvYldGakwzTm9ZVEkxTmc9PTwvcGtjOlB1YmxpY0tleVZhbHVlPg0KICAgIDwvcGtjOlB1YmxpY0tleT48cGtjOlB1YmxpY0tleT4NCiAgICAgIDxwa2M6R3JvdXBJZD4yMTU0PC9wa2M6R3JvdXBJZD4NCiAgICAgIDxwa2M6QWxnb3JpdGhtSWQ+bXNmdDpybS9hbGdvcml0aG0vcGtleS8yMDA5PC9wa2M6QWxnb3JpdGhtSWQ+DQogICAgICA8cGtjOlB1YmxpY0tleVZhbHVlPmJYTm1kRHB3YTJWNUx6SXdNRGt2WTNKNWNIUnZjSEp2Wm1sc1pTOW9iV0ZqTDNOb1lUSTFOZz09PC9wa2M6UHVibGljS2V5VmFsdWU+DQogICAgPC9wa2M6UHVibGljS2V5Pjxwa2M6UHVibGljS2V5Pg0KICAgICAgPHBrYzpHcm91cElkPjIxNTU8L3BrYzpHcm91cElkPg0KICAgICAgPHBrYzpBbGdvcml0aG1JZD5tc2Z0OnJtL2FsZ29yaXRobS9wa2V5LzIwMDk8L3BrYzpBbGdvcml0aG1JZD4NCiAgICAgIDxwa2M6UHVibGljS2V5VmFsdWU+YlhObWREcHdhMlY1THpJd01Ea3ZZM0o1Y0hSdmNISnZabWxzWlM5b2JXRmpMM05vWVRJMU5nPT08L3BrYzpQdWJsaWNLZXlWYWx1ZT4NCiAgICA8L3BrYzpQdWJsaWNLZXk+PHBrYzpQdWJsaWNLZXk+DQogICAgICA8cGtjOkdyb3VwSWQ+MjE1NjwvcGtjOkdyb3VwSWQ+DQogICAgICA8cGtjOkFsZ29yaXRobUlkPm1zZnQ6cm0vYWxnb3JpdGhtL3BrZXkvMjAwOTwvcGtjOkFsZ29yaXRobUlkPg0KICAgICAgPHBrYzpQdWJsaWNLZXlWYWx1ZT5iWE5tZERwd2EyVjVMekl3TURrdlkzSjVjSFJ2Y0hKdlptbHNaUzlvYldGakwzTm9ZVEkxTmc9PTwvcGtjOlB1YmxpY0tleVZhbHVlPg0KICAgIDwvcGtjOlB1YmxpY0tleT48cGtjOlB1YmxpY0tleT4NCiAgICAgIDxwa2M6R3JvdXBJZD4yMTU3PC9wa2M6R3JvdXBJZD4NCiAgICAgIDxwa2M6QWxnb3JpdGhtSWQ+bXNmdDpybS9hbGdvcml0aG0vcGtleS8yMDA5PC9wa2M6QWxnb3JpdGhtSWQ+DQogICAgICA8cGtjOlB1YmxpY0tleVZhbHVlPmJYTm1kRHB3YTJWNUx6SXdNRGt2WTNKNWNIUnZjSEp2Wm1sc1pTOW9iV0ZqTDNOb1lUSTFOZz09PC9wa2M6UHVibGljS2V5VmFsdWU+DQogICAgPC9wa2M6UHVibGljS2V5Pjxwa2M6UHVibGljS2V5Pg0KICAgICAgPHBrYzpHcm91cElkPjIxNTg8L3BrYzpHcm91cElkPg0KICAgICAgPHBrYzpBbGdvcml0aG1JZD5tc2Z0OnJtL2FsZ29yaXRobS9wa2V5LzIwMDk8L3BrYzpBbGdvcml0aG1JZD4NCiAgICAgIDxwa2M6UHVibGljS2V5VmFsdWU+YlhObWREcHdhMlY1THpJd01Ea3ZZM0o1Y0hSdmNISnZabWxzWlM5b2JXRmpMM05vWVRJMU5nPT08L3BrYzpQdWJsaWNLZXlWYWx1ZT4NCiAgICA8L3BrYzpQdWJsaWNLZXk+PHBrYzpQdWJsaWNLZXk+DQogICAgICA8cGtjOkdyb3VwSWQ+MjE1OTwvcGtjOkdyb3VwSWQ+DQogICAgICA8cGtjOkFsZ29yaXRobUlkPm1zZnQ6cm0vYWxnb3JpdGhtL3BrZXkvMjAwOTwvcGtjOkFsZ29yaXRobUlkPg0KICAgICAgPHBrYzpQdWJsaWNLZXlWYWx1ZT5iWE5tZERwd2EyVjVMekl3TURrdlkzSjVjSFJ2Y0hKdlptbHNaUzlvYldGakwzTm9ZVEkxTmc9PTwvcGtjOlB1YmxpY0tleVZhbHVlPg0KICAgIDwvcGtjOlB1YmxpY0tleT48cGtjOlB1YmxpY0tleT4NCiAgICAgIDxwa2M6R3JvdXBJZD4yMTYwPC9wa2M6R3JvdXBJZD4NCiAgICAgIDxwa2M6QWxnb3JpdGhtSWQ+bXNmdDpybS9hbGdvcml0aG0vcGtleS8yMDA5PC9wa2M6QWxnb3JpdGhtSWQ+DQogICAgICA8cGtjOlB1YmxpY0tleVZhbHVlPmJYTm1kRHB3YTJWNUx6SXdNRGt2WTNKNWNIUnZjSEp2Wm1sc1pTOW9iV0ZqTDNOb1lUSTFOZz09PC9wa2M6UHVibGljS2V5VmFsdWU+DQogICAgPC9wa2M6UHVibGljS2V5Pjxwa2M6UHVibGljS2V5Pg0KICAgICAgPHBrYzpHcm91cElkPjIxNjE8L3BrYzpHcm91cElkPg0KICAgICAgPHBrYzpBbGdvcml0aG1JZD5tc2Z0OnJtL2FsZ29yaXRobS9wa2V5LzIwMDk8L3BrYzpBbGdvcml0aG1JZD4NCiAgICAgIDxwa2M6UHVibGljS2V5VmFsdWU+YlhObWREcHdhMlY1THpJd01Ea3ZZM0o1Y0hSdmNISnZabWxzWlM5b2JXRmpMM05vWVRJMU5nPT08L3BrYzpQdWJsaWNLZXlWYWx1ZT4NCiAgICA8L3BrYzpQdWJsaWNLZXk+PHBrYzpQdWJsaWNLZXk+DQogICAgICA8cGtjOkdyb3VwSWQ+MjE2MjwvcGtjOkdyb3VwSWQ+DQogICAgICA8cGtjOkFsZ29yaXRobUlkPm1zZnQ6cm0vYWxnb3JpdGhtL3BrZXkvMjAwOTwvcGtjOkFsZ29yaXRobUlkPg0KICAgICAgPHBrYzpQdWJsaWNLZXlWYWx1ZT5iWE5tZERwd2EyVjVMekl3TURrdlkzSjVjSFJ2Y0hKdlptbHNaUzlvYldGakwzTm9ZVEkxTmc9PTwvcGtjOlB1YmxpY0tleVZhbHVlPg0KICAgIDwvcGtjOlB1YmxpY0tleT48cGtjOlB1YmxpY0tleT4NCiAgICAgIDxwa2M6R3JvdXBJZD4yMTYzPC9wa2M6R3JvdXBJZD4NCiAgICAgIDxwa2M6QWxnb3JpdGhtSWQ+bXNmdDpybS9hbGdvcml0aG0vcGtleS8yMDA5PC9wa2M6QWxnb3JpdGhtSWQ+DQogICAgICA8cGtjOlB1YmxpY0tleVZhbHVlPmJYTm1kRHB3YTJWNUx6SXdNRGt2WTNKNWNIUnZjSEp2Wm1sc1pTOW9iV0ZqTDNOb1lUSTFOZz09PC9wa2M6UHVibGljS2V5VmFsdWU+DQogICAgPC9wa2M6UHVibGljS2V5Pjxwa2M6UHVibGljS2V5Pg0KICAgICAgPHBrYzpHcm91cElkPjIxNjQ8L3BrYzpHcm91cElkPg0KICAgICAgPHBrYzpBbGdvcml0aG1JZD5tc2Z0OnJtL2FsZ29yaXRobS9wa2V5LzIwMDk8L3BrYzpBbGdvcml0aG1JZD4NCiAgICAgIDxwa2M6UHVibGljS2V5VmFsdWU+YlhObWREcHdhMlY1THpJd01Ea3ZZM0o1Y0hSdmNISnZabWxzWlM5b2JXRmpMM05vWVRJMU5nPT08L3BrYzpQdWJsaWNLZXlWYWx1ZT4NCiAgICA8L3BrYzpQdWJsaWNLZXk+PHBrYzpQdWJsaWNLZXk+DQogICAgICA8cGtjOkdyb3VwSWQ+MjE2NTwvcGtjOkdyb3VwSWQ+DQogICAgICA8cGtjOkFsZ29yaXRobUlkPm1zZnQ6cm0vYWxnb3JpdGhtL3BrZXkvMjAwOTwvcGtjOkFsZ29yaXRobUlkPg0KICAgICAgPHBrYzpQdWJsaWNLZXlWYWx1ZT5iWE5tZERwd2EyVjVMekl3TURrdlkzSjVjSFJ2Y0hKdlptbHNaUzlvYldGakwzTm9ZVEkxTmc9PTwvcGtjOlB1YmxpY0tleVZhbHVlPg0KICAgIDwvcGtjOlB1YmxpY0tleT48cGtjOlB1YmxpY0tleT4NCiAgICAgIDxwa2M6R3JvdXBJZD4yMTY2PC9wa2M6R3JvdXBJZD4NCiAgICAgIDxwa2M6QWxnb3JpdGhtSWQ+bXNmdDpybS9hbGdvcml0aG0vcGtleS8yMDA5PC9wa2M6QWxnb3JpdGhtSWQ+DQogICAgICA8cGtjOlB1YmxpY0tleVZhbHVlPmJYTm1kRHB3YTJWNUx6SXdNRGt2WTNKNWNIUnZjSEp2Wm1sc1pTOW9iV0ZqTDNOb1lUSTFOZz09PC9wa2M6UHVibGljS2V5VmFsdWU+DQogICAgPC9wa2M6UHVibGljS2V5Pjxwa2M6UHVibGljS2V5Pg0KICAgICAgPHBrYzpHcm91cElkPjIxNjc8L3BrYzpHcm91cElkPg0KICAgICAgPHBrYzpBbGdvcml0aG1JZD5tc2Z0OnJtL2FsZ29yaXRobS9wa2V5LzIwMDk8L3BrYzpBbGdvcml0aG1JZD4NCiAgICAgIDxwa2M6UHVibGljS2V5VmFsdWU+YlhObWREcHdhMlY1THpJd01Ea3ZZM0o1Y0hSdmNISnZabWxzWlM5b2JXRmpMM05vWVRJMU5nPT08L3BrYzpQdWJsaWNLZXlWYWx1ZT4NCiAgICA8L3BrYzpQdWJsaWNLZXk+PHBrYzpQdWJsaWNLZXk+DQogICAgICA8cGtjOkdyb3VwSWQ+MjE2ODwvcGtjOkdyb3VwSWQ+DQogICAgICA8cGtjOkFsZ29yaXRobUlkPm1zZnQ6cm0vYWxnb3JpdGhtL3BrZXkvMjAwOTwvcGtjOkFsZ29yaXRobUlkPg0KICAgICAgPHBrYzpQdWJsaWNLZXlWYWx1ZT5iWE5tZERwd2EyVjVMekl3TURrdlkzSjVjSFJ2Y0hKdlptbHNaUzlvYldGakwzTm9ZVEkxTmc9PTwvcGtjOlB1YmxpY0tleVZhbHVlPg0KICAgIDwvcGtjOlB1YmxpY0tleT48cGtjOlB1YmxpY0tleT4NCiAgICAgIDxwa2M6R3JvdXBJZD4yMTY5PC9wa2M6R3JvdXBJZD4NCiAgICAgIDxwa2M6QWxnb3JpdGhtSWQ+bXNmdDpybS9hbGdvcml0aG0vcGtleS8yMDA5PC9wa2M6QWxnb3JpdGhtSWQ+DQogICAgICA8cGtjOlB1YmxpY0tleVZhbHVlPmJYTm1kRHB3YTJWNUx6SXdNRGt2WTNKNWNIUnZjSEp2Wm1sc1pTOW9iV0ZqTDNOb1lUSTFOZz09PC9wa2M6UHVibGljS2V5VmFsdWU+DQogICAgPC9wa2M6UHVibGljS2V5Pjxwa2M6UHVibGljS2V5Pg0KICAgICAgPHBrYzpHcm91cElkPjIxNzA8L3BrYzpHcm91cElkPg0KICAgICAgPHBrYzpBbGdvcml0aG1JZD5tc2Z0OnJtL2FsZ29yaXRobS9wa2V5LzIwMDk8L3BrYzpBbGdvcml0aG1JZD4NCiAgICAgIDxwa2M6UHVibGljS2V5VmFsdWU+YlhObWREcHdhMlY1THpJd01Ea3ZZM0o1Y0hSdmNISnZabWxzWlM5b2JXRmpMM05vWVRJMU5nPT08L3BrYzpQdWJsaWNLZXlWYWx1ZT4NCiAgICA8L3BrYzpQdWJsaWNLZXk+PHBrYzpQdWJsaWNLZXk+DQogICAgICA8cGtjOkdyb3VwSWQ+MjE3MTwvcGtjOkdyb3VwSWQ+DQogICAgICA8cGtjOkFsZ29yaXRobUlkPm1zZnQ6cm0vYWxnb3JpdGhtL3BrZXkvMjAwOTwvcGtjOkFsZ29yaXRobUlkPg0KICAgICAgPHBrYzpQdWJsaWNLZXlWYWx1ZT5iWE5tZERwd2EyVjVMekl3TURrdlkzSjVjSFJ2Y0hKdlptbHNaUzlvYldGakwzTm9ZVEkxTmc9PTwvcGtjOlB1YmxpY0tleVZhbHVlPg0KICAgIDwvcGtjOlB1YmxpY0tleT48cGtjOlB1YmxpY0tleT4NCiAgICAgIDxwa2M6R3JvdXBJZD4yMTcyPC9wa2M6R3JvdXBJZD4NCiAgICAgIDxwa2M6QWxnb3JpdGhtSWQ+bXNmdDpybS9hbGdvcml0aG0vcGtleS8yMDA5PC9wa2M6QWxnb3JpdGhtSWQ+DQogICAgICA8cGtjOlB1YmxpY0tleVZhbHVlPmJYTm1kRHB3YTJWNUx6SXdNRGt2WTNKNWNIUnZjSEp2Wm1sc1pTOW9iV0ZqTDNOb1lUSTFOZz09PC9wa2M6UHVibGljS2V5VmFsdWU+DQogICAgPC9wa2M6UHVibGljS2V5Pjxwa2M6UHVibGljS2V5Pg0KICAgICAgPHBrYzpHcm91cElkPjIxNzQ8L3BrYzpHcm91cElkPg0KICAgICAgPHBrYzpBbGdvcml0aG1JZD5tc2Z0OnJtL2FsZ29yaXRobS9wa2V5LzIwMDk8L3BrYzpBbGdvcml0aG1JZD4NCiAgICAgIDxwa2M6UHVibGljS2V5VmFsdWU+YlhObWREcHdhMlY1THpJd01Ea3ZZM0o1Y0hSdmNISnZabWxzWlM5b2JXRmpMM05vWVRJMU5nPT08L3BrYzpQdWJsaWNLZXlWYWx1ZT4NCiAgICA8L3BrYzpQdWJsaWNLZXk+PHBrYzpQdWJsaWNLZXk+DQogICAgICA8cGtjOkdyb3VwSWQ+MjE3NTwvcGtjOkdyb3VwSWQ+DQogICAgICA8cGtjOkFsZ29yaXRobUlkPm1zZnQ6cm0vYWxnb3JpdGhtL3BrZXkvMjAwOTwvcGtjOkFsZ29yaXRobUlkPg0KICAgICAgPHBrYzpQdWJsaWNLZXlWYWx1ZT5iWE5tZERwd2EyVjVMekl3TURrdlkzSjVjSFJ2Y0hKdlptbHNaUzlvYldGakwzTm9ZVEkxTmc9PTwvcGtjOlB1YmxpY0tleVZhbHVlPg0KICAgIDwvcGtjOlB1YmxpY0tleT48cGtjOlB1YmxpY0tleT4NCiAgICAgIDxwa2M6R3JvdXBJZD4yMTc2PC9wa2M6R3JvdXBJZD4NCiAgICAgIDxwa2M6QWxnb3JpdGhtSWQ+bXNmdDpybS9hbGdvcml0aG0vcGtleS8yMDA5PC9wa2M6QWxnb3JpdGhtSWQ+DQogICAgICA8cGtjOlB1YmxpY0tleVZhbHVlPmJYTm1kRHB3YTJWNUx6SXdNRGt2WTNKNWNIUnZjSEp2Wm1sc1pTOW9iV0ZqTDNOb1lUSTFOZz09PC9wa2M6UHVibGljS2V5VmFsdWU+DQogICAgPC9wa2M6UHVibGljS2V5Pjxwa2M6UHVibGljS2V5Pg0KICAgICAgPHBrYzpHcm91cElkPjIxNzc8L3BrYzpHcm91cElkPg0KICAgICAgPHBrYzpBbGdvcml0aG1JZD5tc2Z0OnJtL2FsZ29yaXRobS9wa2V5LzIwMDk8L3BrYzpBbGdvcml0aG1JZD4NCiAgICAgIDxwa2M6UHVibGljS2V5VmFsdWU+YlhObWREcHdhMlY1THpJd01Ea3ZZM0o1Y0hSdmNISnZabWxzWlM5b2JXRmpMM05vWVRJMU5nPT08L3BrYzpQdWJsaWNLZXlWYWx1ZT4NCiAgICA8L3BrYzpQdWJsaWNLZXk+PHBrYzpQdWJsaWNLZXk+DQogICAgICA8cGtjOkdyb3VwSWQ+MjE3ODwvcGtjOkdyb3VwSWQ+DQogICAgICA8cGtjOkFsZ29yaXRobUlkPm1zZnQ6cm0vYWxnb3JpdGhtL3BrZXkvMjAwOTwvcGtjOkFsZ29yaXRobUlkPg0KICAgICAgPHBrYzpQdWJsaWNLZXlWYWx1ZT5iWE5tZERwd2EyVjVMekl3TURrdlkzSjVjSFJ2Y0hKdlptbHNaUzlvYldGakwzTm9ZVEkxTmc9PTwvcGtjOlB1YmxpY0tleVZhbHVlPg0KICAgIDwvcGtjOlB1YmxpY0tleT48cGtjOlB1YmxpY0tleT4NCiAgICAgIDxwa2M6R3JvdXBJZD4yMTc5PC9wa2M6R3JvdXBJZD4NCiAgICAgIDxwa2M6QWxnb3JpdGhtSWQ+bXNmdDpybS9hbGdvcml0aG0vcGtleS8yMDA5PC9wa2M6QWxnb3JpdGhtSWQ+DQogICAgICA8cGtjOlB1YmxpY0tleVZhbHVlPmJYTm1kRHB3YTJWNUx6SXdNRGt2WTNKNWNIUnZjSEp2Wm1sc1pTOW9iV0ZqTDNOb1lUSTFOZz09PC9wa2M6UHVibGljS2V5VmFsdWU+DQogICAgPC9wa2M6UHVibGljS2V5Pjxwa2M6UHVibGljS2V5Pg0KICAgICAgPHBrYzpHcm91cElkPjIxODA8L3BrYzpHcm91cElkPg0KICAgICAgPHBrYzpBbGdvcml0aG1JZD5tc2Z0OnJtL2FsZ29yaXRobS9wa2V5LzIwMDk8L3BrYzpBbGdvcml0aG1JZD4NCiAgICAgIDxwa2M6UHVibGljS2V5VmFsdWU+YlhObWREcHdhMlY1THpJd01Ea3ZZM0o1Y0hSdmNISnZabWxzWlM5b2JXRmpMM05vWVRJMU5nPT08L3BrYzpQdWJsaWNLZXlWYWx1ZT4NCiAgICA8L3BrYzpQdWJsaWNLZXk+PHBrYzpQdWJsaWNLZXk+DQogICAgICA8cGtjOkdyb3VwSWQ+MjE4MTwvcGtjOkdyb3VwSWQ+DQogICAgICA8cGtjOkFsZ29yaXRobUlkPm1zZnQ6cm0vYWxnb3JpdGhtL3BrZXkvMjAwOTwvcGtjOkFsZ29yaXRobUlkPg0KICAgICAgPHBrYzpQdWJsaWNLZXlWYWx1ZT5iWE5tZERwd2EyVjVMekl3TURrdlkzSjVjSFJ2Y0hKdlptbHNaUzlvYldGakwzTm9ZVEkxTmc9PTwvcGtjOlB1YmxpY0tleVZhbHVlPg0KICAgIDwvcGtjOlB1YmxpY0tleT48cGtjOlB1YmxpY0tleT4NCiAgICAgIDxwa2M6R3JvdXBJZD4yMTgyPC9wa2M6R3JvdXBJZD4NCiAgICAgIDxwa2M6QWxnb3JpdGhtSWQ+bXNmdDpybS9hbGdvcml0aG0vcGtleS8yMDA5PC9wa2M6QWxnb3JpdGhtSWQ+DQogICAgICA8cGtjOlB1YmxpY0tleVZhbHVlPmJYTm1kRHB3YTJWNUx6SXdNRGt2WTNKNWNIUnZjSEp2Wm1sc1pTOW9iV0ZqTDNOb1lUSTFOZz09PC9wa2M6UHVibGljS2V5VmFsdWU+DQogICAgPC9wa2M6UHVibGljS2V5Pjxwa2M6UHVibGljS2V5Pg0KICAgICAgPHBrYzpHcm91cElkPjIxODM8L3BrYzpHcm91cElkPg0KICAgICAgPHBrYzpBbGdvcml0aG1JZD5tc2Z0OnJtL2FsZ29yaXRobS9wa2V5LzIwMDk8L3BrYzpBbGdvcml0aG1JZD4NCiAgICAgIDxwa2M6UHVibGljS2V5VmFsdWU+YlhObWREcHdhMlY1THpJd01Ea3ZZM0o1Y0hSdmNISnZabWxzWlM5b2JXRmpMM05vWVRJMU5nPT08L3BrYzpQdWJsaWNLZXlWYWx1ZT4NCiAgICA8L3BrYzpQdWJsaWNLZXk+PHBrYzpQdWJsaWNLZXk+DQogICAgICA8cGtjOkdyb3VwSWQ+MjE4NDwvcGtjOkdyb3VwSWQ+DQogICAgICA8cGtjOkFsZ29yaXRobUlkPm1zZnQ6cm0vYWxnb3JpdGhtL3BrZXkvMjAwOTwvcGtjOkFsZ29yaXRobUlkPg0KICAgICAgPHBrYzpQdWJsaWNLZXlWYWx1ZT5iWE5tZERwd2EyVjVMekl3TURrdlkzSjVjSFJ2Y0hKdlptbHNaUzlvYldGakwzTm9ZVEkxTmc9PTwvcGtjOlB1YmxpY0tleVZhbHVlPg0KICAgIDwvcGtjOlB1YmxpY0tleT48cGtjOlB1YmxpY0tleT4NCiAgICAgIDxwa2M6R3JvdXBJZD4yMTg1PC9wa2M6R3JvdXBJZD4NCiAgICAgIDxwa2M6QWxnb3JpdGhtSWQ+bXNmdDpybS9hbGdvcml0aG0vcGtleS8yMDA5PC9wa2M6QWxnb3JpdGhtSWQ+DQogICAgICA8cGtjOlB1YmxpY0tleVZhbHVlPmJYTm1kRHB3YTJWNUx6SXdNRGt2WTNKNWNIUnZjSEp2Wm1sc1pTOW9iV0ZqTDNOb1lUSTFOZz09PC9wa2M6UHVibGljS2V5VmFsdWU+DQogICAgPC9wa2M6UHVibGljS2V5Pjxwa2M6UHVibGljS2V5Pg0KICAgICAgPHBrYzpHcm91cElkPjIxODY8L3BrYzpHcm91cElkPg0KICAgICAgPHBrYzpBbGdvcml0aG1JZD5tc2Z0OnJtL2FsZ29yaXRobS9wa2V5LzIwMDk8L3BrYzpBbGdvcml0aG1JZD4NCiAgICAgIDxwa2M6UHVibGljS2V5VmFsdWU+YlhObWREcHdhMlY1THpJd01Ea3ZZM0o1Y0hSdmNISnZabWxzWlM5b2JXRmpMM05vWVRJMU5nPT08L3BrYzpQdWJsaWNLZXlWYWx1ZT4NCiAgICA8L3BrYzpQdWJsaWNLZXk+PHBrYzpQdWJsaWNLZXk+DQogICAgICA8cGtjOkdyb3VwSWQ+MjE4NzwvcGtjOkdyb3VwSWQ+DQogICAgICA8cGtjOkFsZ29yaXRobUlkPm1zZnQ6cm0vYWxnb3JpdGhtL3BrZXkvMjAwOTwvcGtjOkFsZ29yaXRobUlkPg0KICAgICAgPHBrYzpQdWJsaWNLZXlWYWx1ZT5iWE5tZERwd2EyVjVMekl3TURrdlkzSjVjSFJ2Y0hKdlptbHNaUzlvYldGakwzTm9ZVEkxTmc9PTwvcGtjOlB1YmxpY0tleVZhbHVlPg0KICAgIDwvcGtjOlB1YmxpY0tleT48cGtjOlB1YmxpY0tleT4NCiAgICAgIDxwa2M6R3JvdXBJZD4yMTg4PC9wa2M6R3JvdXBJZD4NCiAgICAgIDxwa2M6QWxnb3JpdGhtSWQ+bXNmdDpybS9hbGdvcml0aG0vcGtleS8yMDA5PC9wa2M6QWxnb3JpdGhtSWQ+DQogICAgICA8cGtjOlB1YmxpY0tleVZhbHVlPmJYTm1kRHB3YTJWNUx6SXdNRGt2WTNKNWNIUnZjSEp2Wm1sc1pTOW9iV0ZqTDNOb1lUSTFOZz09PC9wa2M6UHVibGljS2V5VmFsdWU+DQogICAgPC9wa2M6UHVibGljS2V5Pjxwa2M6UHVibGljS2V5Pg0KICAgICAgPHBrYzpHcm91cElkPjIxODk8L3BrYzpHcm91cElkPg0KICAgICAgPHBrYzpBbGdvcml0aG1JZD5tc2Z0OnJtL2FsZ29yaXRobS9wa2V5LzIwMDk8L3BrYzpBbGdvcml0aG1JZD4NCiAgICAgIDxwa2M6UHVibGljS2V5VmFsdWU+YlhObWREcHdhMlY1THpJd01Ea3ZZM0o1Y0hSdmNISnZabWxzWlM5b2JXRmpMM05vWVRJMU5nPT08L3BrYzpQdWJsaWNLZXlWYWx1ZT4NCiAgICA8L3BrYzpQdWJsaWNLZXk+PHBrYzpQdWJsaWNLZXk+DQogICAgICA8cGtjOkdyb3VwSWQ+MjE5MDwvcGtjOkdyb3VwSWQ+DQogICAgICA8cGtjOkFsZ29yaXRobUlkPm1zZnQ6cm0vYWxnb3JpdGhtL3BrZXkvMjAwOTwvcGtjOkFsZ29yaXRobUlkPg0KICAgICAgPHBrYzpQdWJsaWNLZXlWYWx1ZT5iWE5tZERwd2EyVjVMekl3TURrdlkzSjVjSFJ2Y0hKdlptbHNaUzlvYldGakwzTm9ZVEkxTmc9PTwvcGtjOlB1YmxpY0tleVZhbHVlPg0KICAgIDwvcGtjOlB1YmxpY0tleT48cGtjOlB1YmxpY0tleT4NCiAgICAgIDxwa2M6R3JvdXBJZD4yMTkxPC9wa2M6R3JvdXBJZD4NCiAgICAgIDxwa2M6QWxnb3JpdGhtSWQ+bXNmdDpybS9hbGdvcml0aG0vcGtleS8yMDA5PC9wa2M6QWxnb3JpdGhtSWQ+DQogICAgICA8cGtjOlB1YmxpY0tleVZhbHVlPmJYTm1kRHB3YTJWNUx6SXdNRGt2WTNKNWNIUnZjSEp2Wm1sc1pTOW9iV0ZqTDNOb1lUSTFOZz09PC9wa2M6UHVibGljS2V5VmFsdWU+DQogICAgPC9wa2M6UHVibGljS2V5Pjxwa2M6UHVibGljS2V5Pg0KICAgICAgPHBrYzpHcm91cElkPjIxOTI8L3BrYzpHcm91cElkPg0KICAgICAgPHBrYzpBbGdvcml0aG1JZD5tc2Z0OnJtL2FsZ29yaXRobS9wa2V5LzIwMDk8L3BrYzpBbGdvcml0aG1JZD4NCiAgICAgIDxwa2M6UHVibGljS2V5VmFsdWU+YlhObWREcHdhMlY1THpJd01Ea3ZZM0o1Y0hSdmNISnZabWxzWlM5b2JXRmpMM05vWVRJMU5nPT08L3BrYzpQdWJsaWNLZXlWYWx1ZT4NCiAgICA8L3BrYzpQdWJsaWNLZXk+PHBrYzpQdWJsaWNLZXk+DQogICAgICA8cGtjOkdyb3VwSWQ+MjE5MzwvcGtjOkdyb3VwSWQ+DQogICAgICA8cGtjOkFsZ29yaXRobUlkPm1zZnQ6cm0vYWxnb3JpdGhtL3BrZXkvMjAwOTwvcGtjOkFsZ29yaXRobUlkPg0KICAgICAgPHBrYzpQdWJsaWNLZXlWYWx1ZT5iWE5tZERwd2EyVjVMekl3TURrdlkzSjVjSFJ2Y0hKdlptbHNaUzlvYldGakwzTm9ZVEkxTmc9PTwvcGtjOlB1YmxpY0tleVZhbHVlPg0KICAgIDwvcGtjOlB1YmxpY0tleT48cGtjOlB1YmxpY0tleT4NCiAgICAgIDxwa2M6R3JvdXBJZD4yMTk0PC9wa2M6R3JvdXBJZD4NCiAgICAgIDxwa2M6QWxnb3JpdGhtSWQ+bXNmdDpybS9hbGdvcml0aG0vcGtleS8yMDA5PC9wa2M6QWxnb3JpdGhtSWQ+DQogICAgICA8cGtjOlB1YmxpY0tleVZhbHVlPmJYTm1kRHB3YTJWNUx6SXdNRGt2WTNKNWNIUnZjSEp2Wm1sc1pTOW9iV0ZqTDNOb1lUSTFOZz09PC9wa2M6UHVibGljS2V5VmFsdWU+DQogICAgPC9wa2M6UHVibGljS2V5Pjxwa2M6UHVibGljS2V5Pg0KICAgICAgPHBrYzpHcm91cElkPjIxOTU8L3BrYzpHcm91cElkPg0KICAgICAgPHBrYzpBbGdvcml0aG1JZD5tc2Z0OnJtL2FsZ29yaXRobS9wa2V5LzIwMDk8L3BrYzpBbGdvcml0aG1JZD4NCiAgICAgIDxwa2M6UHVibGljS2V5VmFsdWU+YlhObWREcHdhMlY1THpJd01Ea3ZZM0o1Y0hSdmNISnZabWxzWlM5b2JXRmpMM05vWVRJMU5nPT08L3BrYzpQdWJsaWNLZXlWYWx1ZT4NCiAgICA8L3BrYzpQdWJsaWNLZXk+PHBrYzpQdWJsaWNLZXk+DQogICAgICA8cGtjOkdyb3VwSWQ+MjE5NjwvcGtjOkdyb3VwSWQ+DQogICAgICA8cGtjOkFsZ29yaXRobUlkPm1zZnQ6cm0vYWxnb3JpdGhtL3BrZXkvMjAwOTwvcGtjOkFsZ29yaXRobUlkPg0KICAgICAgPHBrYzpQdWJsaWNLZXlWYWx1ZT5iWE5tZERwd2EyVjVMekl3TURrdlkzSjVjSFJ2Y0hKdlptbHNaUzlvYldGakwzTm9ZVEkxTmc9PTwvcGtjOlB1YmxpY0tleVZhbHVlPg0KICAgIDwvcGtjOlB1YmxpY0tleT48cGtjOlB1YmxpY0tleT4NCiAgICAgIDxwa2M6R3JvdXBJZD4yMTk3PC9wa2M6R3JvdXBJZD4NCiAgICAgIDxwa2M6QWxnb3JpdGhtSWQ+bXNmdDpybS9hbGdvcml0aG0vcGtleS8yMDA5PC9wa2M6QWxnb3JpdGhtSWQ+DQogICAgICA8cGtjOlB1YmxpY0tleVZhbHVlPmJYTm1kRHB3YTJWNUx6SXdNRGt2WTNKNWNIUnZjSEp2Wm1sc1pTOW9iV0ZqTDNOb1lUSTFOZz09PC9wa2M6UHVibGljS2V5VmFsdWU+DQogICAgPC9wa2M6UHVibGljS2V5Pjxwa2M6UHVibGljS2V5Pg0KICAgICAgPHBrYzpHcm91cElkPjIxOTg8L3BrYzpHcm91cElkPg0KICAgICAgPHBrYzpBbGdvcml0aG1JZD5tc2Z0OnJtL2FsZ29yaXRobS9wa2V5LzIwMDk8L3BrYzpBbGdvcml0aG1JZD4NCiAgICAgIDxwa2M6UHVibGljS2V5VmFsdWU+YlhObWREcHdhMlY1THpJd01Ea3ZZM0o1Y0hSdmNISnZabWxzWlM5b2JXRmpMM05vWVRJMU5nPT08L3BrYzpQdWJsaWNLZXlWYWx1ZT4NCiAgICA8L3BrYzpQdWJsaWNLZXk+PHBrYzpQdWJsaWNLZXk+DQogICAgICA8cGtjOkdyb3VwSWQ+MjE5OTwvcGtjOkdyb3VwSWQ+DQogICAgICA8cGtjOkFsZ29yaXRobUlkPm1zZnQ6cm0vYWxnb3JpdGhtL3BrZXkvMjAwOTwvcGtjOkFsZ29yaXRobUlkPg0KICAgICAgPHBrYzpQdWJsaWNLZXlWYWx1ZT5iWE5tZERwd2EyVjVMekl3TURrdlkzSjVjSFJ2Y0hKdlptbHNaUzlvYldGakwzTm9ZVEkxTmc9PTwvcGtjOlB1YmxpY0tleVZhbHVlPg0KICAgIDwvcGtjOlB1YmxpY0tleT48cGtjOlB1YmxpY0tleT4NCiAgICAgIDxwa2M6R3JvdXBJZD4yMjAwPC9wa2M6R3JvdXBJZD4NCiAgICAgIDxwa2M6QWxnb3JpdGhtSWQ+bXNmdDpybS9hbGdvcml0aG0vcGtleS8yMDA5PC9wa2M6QWxnb3JpdGhtSWQ+DQogICAgICA8cGtjOlB1YmxpY0tleVZhbHVlPmJYTm1kRHB3YTJWNUx6SXdNRGt2WTNKNWNIUnZjSEp2Wm1sc1pTOW9iV0ZqTDNOb1lUSTFOZz09PC9wa2M6UHVibGljS2V5VmFsdWU+DQogICAgPC9wa2M6UHVibGljS2V5Pjxwa2M6UHVibGljS2V5Pg0KICAgICAgPHBrYzpHcm91cElkPjIyMDE8L3BrYzpHcm91cElkPg0KICAgICAgPHBrYzpBbGdvcml0aG1JZD5tc2Z0OnJtL2FsZ29yaXRobS9wa2V5LzIwMDk8L3BrYzpBbGdvcml0aG1JZD4NCiAgICAgIDxwa2M6UHVibGljS2V5VmFsdWU+YlhObWREcHdhMlY1THpJd01Ea3ZZM0o1Y0hSdmNISnZabWxzWlM5b2JXRmpMM05vWVRJMU5nPT08L3BrYzpQdWJsaWNLZXlWYWx1ZT4NCiAgICA8L3BrYzpQdWJsaWNLZXk+PHBrYzpQdWJsaWNLZXk+DQogICAgICA8cGtjOkdyb3VwSWQ+MjIwMjwvcGtjOkdyb3VwSWQ+DQogICAgICA8cGtjOkFsZ29yaXRobUlkPm1zZnQ6cm0vYWxnb3JpdGhtL3BrZXkvMjAwOTwvcGtjOkFsZ29yaXRobUlkPg0KICAgICAgPHBrYzpQdWJsaWNLZXlWYWx1ZT5iWE5tZERwd2EyVjVMekl3TURrdlkzSjVjSFJ2Y0hKdlptbHNaUzlvYldGakwzTm9ZVEkxTmc9PTwvcGtjOlB1YmxpY0tleVZhbHVlPg0KICAgIDwvcGtjOlB1YmxpY0tleT48cGtjOlB1YmxpY0tleT4NCiAgICAgIDxwa2M6R3JvdXBJZD4yMjAzPC9wa2M6R3JvdXBJZD4NCiAgICAgIDxwa2M6QWxnb3JpdGhtSWQ+bXNmdDpybS9hbGdvcml0aG0vcGtleS8yMDA5PC9wa2M6QWxnb3JpdGhtSWQ+DQogICAgICA8cGtjOlB1YmxpY0tleVZhbHVlPmJYTm1kRHB3YTJWNUx6SXdNRGt2WTNKNWNIUnZjSEp2Wm1sc1pTOW9iV0ZqTDNOb1lUSTFOZz09PC9wa2M6UHVibGljS2V5VmFsdWU+DQogICAgPC9wa2M6UHVibGljS2V5Pjxwa2M6UHVibGljS2V5Pg0KICAgICAgPHBrYzpHcm91cElkPjIyMDQ8L3BrYzpHcm91cElkPg0KICAgICAgPHBrYzpBbGdvcml0aG1JZD5tc2Z0OnJtL2FsZ29yaXRobS9wa2V5LzIwMDk8L3BrYzpBbGdvcml0aG1JZD4NCiAgICAgIDxwa2M6UHVibGljS2V5VmFsdWU+YlhObWREcHdhMlY1THpJd01Ea3ZZM0o1Y0hSdmNISnZabWxzWlM5b2JXRmpMM05vWVRJMU5nPT08L3BrYzpQdWJsaWNLZXlWYWx1ZT4NCiAgICA8L3BrYzpQdWJsaWNLZXk+PHBrYzpQdWJsaWNLZXk+DQogICAgICA8cGtjOkdyb3VwSWQ+MjIwNTwvcGtjOkdyb3VwSWQ+DQogICAgICA8cGtjOkFsZ29yaXRobUlkPm1zZnQ6cm0vYWxnb3JpdGhtL3BrZXkvMjAwOTwvcGtjOkFsZ29yaXRobUlkPg0KICAgICAgPHBrYzpQdWJsaWNLZXlWYWx1ZT5iWE5tZERwd2EyVjVMekl3TURrdlkzSjVjSFJ2Y0hKdlptbHNaUzlvYldGakwzTm9ZVEkxTmc9PTwvcGtjOlB1YmxpY0tleVZhbHVlPg0KICAgIDwvcGtjOlB1YmxpY0tleT48cGtjOlB1YmxpY0tleT4NCiAgICAgIDxwa2M6R3JvdXBJZD4yMjA2PC9wa2M6R3JvdXBJZD4NCiAgICAgIDxwa2M6QWxnb3JpdGhtSWQ+bXNmdDpybS9hbGdvcml0aG0vcGtleS8yMDA5PC9wa2M6QWxnb3JpdGhtSWQ+DQogICAgICA8cGtjOlB1YmxpY0tleVZhbHVlPmJYTm1kRHB3YTJWNUx6SXdNRGt2WTNKNWNIUnZjSEp2Wm1sc1pTOW9iV0ZqTDNOb1lUSTFOZz09PC9wa2M6UHVibGljS2V5VmFsdWU+DQogICAgPC9wa2M6UHVibGljS2V5Pjxwa2M6UHVibGljS2V5Pg0KICAgICAgPHBrYzpHcm91cElkPjIyMDc8L3BrYzpHcm91cElkPg0KICAgICAgPHBrYzpBbGdvcml0aG1JZD5tc2Z0OnJtL2FsZ29yaXRobS9wa2V5LzIwMDk8L3BrYzpBbGdvcml0aG1JZD4NCiAgICAgIDxwa2M6UHVibGljS2V5VmFsdWU+YlhObWREcHdhMlY1THpJd01Ea3ZZM0o1Y0hSdmNISnZabWxzWlM5b2JXRmpMM05vWVRJMU5nPT08L3BrYzpQdWJsaWNLZXlWYWx1ZT4NCiAgICA8L3BrYzpQdWJsaWNLZXk+PHBrYzpQdWJsaWNLZXk+DQogICAgICA8cGtjOkdyb3VwSWQ+MjIwOTwvcGtjOkdyb3VwSWQ+DQogICAgICA8cGtjOkFsZ29yaXRobUlkPm1zZnQ6cm0vYWxnb3JpdGhtL3BrZXkvMjAwOTwvcGtjOkFsZ29yaXRobUlkPg0KICAgICAgPHBrYzpQdWJsaWNLZXlWYWx1ZT5iWE5tZERwd2EyVjVMekl3TURrdlkzSjVjSFJ2Y0hKdlptbHNaUzlvYldGakwzTm9ZVEkxTmc9PTwvcGtjOlB1YmxpY0tleVZhbHVlPg0KICAgIDwvcGtjOlB1YmxpY0tleT48cGtjOlB1YmxpY0tleT4NCiAgICAgIDxwa2M6R3JvdXBJZD4yMjEwPC9wa2M6R3JvdXBJZD4NCiAgICAgIDxwa2M6QWxnb3JpdGhtSWQ+bXNmdDpybS9hbGdvcml0aG0vcGtleS8yMDA5PC9wa2M6QWxnb3JpdGhtSWQ+DQogICAgICA8cGtjOlB1YmxpY0tleVZhbHVlPmJYTm1kRHB3YTJWNUx6SXdNRGt2WTNKNWNIUnZjSEp2Wm1sc1pTOW9iV0ZqTDNOb1lUSTFOZz09PC9wa2M6UHVibGljS2V5VmFsdWU+DQogICAgPC9wa2M6UHVibGljS2V5Pjxwa2M6UHVibGljS2V5Pg0KICAgICAgPHBrYzpHcm91cElkPjIyMTE8L3BrYzpHcm91cElkPg0KICAgICAgPHBrYzpBbGdvcml0aG1JZD5tc2Z0OnJtL2FsZ29yaXRobS9wa2V5LzIwMDk8L3BrYzpBbGdvcml0aG1JZD4NCiAgICAgIDxwa2M6UHVibGljS2V5VmFsdWU+YlhObWREcHdhMlY1THpJd01Ea3ZZM0o1Y0hSdmNISnZabWxzWlM5b2JXRmpMM05vWVRJMU5nPT08L3BrYzpQdWJsaWNLZXlWYWx1ZT4NCiAgICA8L3BrYzpQdWJsaWNLZXk+PHBrYzpQdWJsaWNLZXk+DQogICAgICA8cGtjOkdyb3VwSWQ+MjIxMjwvcGtjOkdyb3VwSWQ+DQogICAgICA8cGtjOkFsZ29yaXRobUlkPm1zZnQ6cm0vYWxnb3JpdGhtL3BrZXkvMjAwOTwvcGtjOkFsZ29yaXRobUlkPg0KICAgICAgPHBrYzpQdWJsaWNLZXlWYWx1ZT5iWE5tZERwd2EyVjVMekl3TURrdlkzSjVjSFJ2Y0hKdlptbHNaUzlvYldGakwzTm9ZVEkxTmc9PTwvcGtjOlB1YmxpY0tleVZhbHVlPg0KICAgIDwvcGtjOlB1YmxpY0tleT48cGtjOlB1YmxpY0tleT4NCiAgICAgIDxwa2M6R3JvdXBJZD4yMjEzPC9wa2M6R3JvdXBJZD4NCiAgICAgIDxwa2M6QWxnb3JpdGhtSWQ+bXNmdDpybS9hbGdvcml0aG0vcGtleS8yMDA5PC9wa2M6QWxnb3JpdGhtSWQ+DQogICAgICA8cGtjOlB1YmxpY0tleVZhbHVlPmJYTm1kRHB3YTJWNUx6SXdNRGt2WTNKNWNIUnZjSEp2Wm1sc1pTOW9iV0ZqTDNOb1lUSTFOZz09PC9wa2M6UHVibGljS2V5VmFsdWU+DQogICAgPC9wa2M6UHVibGljS2V5Pjxwa2M6UHVibGljS2V5Pg0KICAgICAgPHBrYzpHcm91cElkPjIyMTQ8L3BrYzpHcm91cElkPg0KICAgICAgPHBrYzpBbGdvcml0aG1JZD5tc2Z0OnJtL2FsZ29yaXRobS9wa2V5LzIwMDk8L3BrYzpBbGdvcml0aG1JZD4NCiAgICAgIDxwa2M6UHVibGljS2V5VmFsdWU+YlhObWREcHdhMlY1THpJd01Ea3ZZM0o1Y0hSdmNISnZabWxzWlM5b2JXRmpMM05vWVRJMU5nPT08L3BrYzpQdWJsaWNLZXlWYWx1ZT4NCiAgICA8L3BrYzpQdWJsaWNLZXk+PC9wa2M6UHVibGljS2V5cz4NCjwvcGtjOlByb2R1Y3RLZXlDb25maWd1cmF0aW9uPg0K</tm:infoBin></tm:infoList></tm:infoTables></r:otherInfo></r:license></rg:licenseGroup>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 <?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e6dec8d4-06f9-4167-b1a9-c242cf1e02ea" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/dist/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="app-routing.module.ts" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/app/app-routing.module.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="48">
+              <caret line="26" column="10" selection-start-line="26" selection-start-column="10" selection-end-line="26" selection-end-column="10" />
+              <folding>
+                <element signature="e#0#41#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="app.module.ts" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/app/app.module.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="216">
+              <caret line="68" column="108" selection-start-line="68" selection-start-column="108" selection-end-line="68" selection-end-column="108" />
+              <folding>
+                <element signature="e#0#58#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="firstspeaker.component.ts" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/app/firstspeaker/firstspeaker.component.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="361">
+              <caret line="29" selection-start-line="11" selection-end-line="29" />
+              <folding>
+                <element signature="e#0#50#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="header.component.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/app/header/header.component.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="288">
+              <caret line="68" selection-start-line="68" selection-end-line="68" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="navbar.component.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/app/navbar/navbar.component.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="5" column="14" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="register.component.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/app/register/register.component.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="48">
+              <caret line="2" column="27" selection-start-line="2" selection-start-column="27" selection-end-line="2" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="secondedit.component.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/app/secondedit/secondedit.component.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="168">
+              <caret line="7" column="27" selection-start-line="7" selection-start-column="27" selection-end-line="7" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="secondspeaker.component.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/app/secondspeaker/secondspeaker.component.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="168">
+              <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="secondspeaker.component.ts" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/app/secondspeaker/secondspeaker.component.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="361">
+              <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
+              <folding>
+                <element signature="e#0#50#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="thirdspeaker.component.ts" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/app/thirdspeaker/thirdspeaker.component.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
+              <folding>
+                <element signature="e#0#50#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="TypeScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>page-wrapper</find>
+      <find>header-uper</find>
+      <find>clearfix</find>
+      <find>bsbs</find>
+      <find>bs-example-navbar-collapse-1</find>
+      <find>navbar navbar-default</find>
+      <find>navbar</find>
+      <find>collapse</find>
+      <find>active</find>
+      <find>body</find>
+      <find>container</find>
+      <find>navbar-header</find>
+      <find>navbar-collapse</find>
+      <find>navbar-default</find>
+      <find>padding</find>
+      <find>font-size</find>
+      <find>navbar-nav</find>
+      <find>Speaker</find>
+      <find>a pro</find>
+      <find>slid</find>
+      <find>item</find>
+      <find>progra</find>
+      <find>accue</find>
+      <find>program c</find>
+      <find>check</find>
+      <find>check in</find>
+      <find>book no</find>
+      <find>thir</find>
+      <find>assets/</find>
+      <find>{{}}</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>assets</replace>
+      <replace>$PROJECT_DIR$/src/assets</replace>
+      <replace>assets/images/</replace>
+      <replace>assets/images</replace>
+      <replace>assets/</replace>
+      <replace>assets/A/</replace>
+      <replace>Third Edition</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/app/app.component.css" />
+        <option value="$PROJECT_DIR$/src/app/app.component.html" />
+        <option value="$PROJECT_DIR$/src/app/about/about.component.html" />
+        <option value="$PROJECT_DIR$/src/app/slider/slider.component.css" />
+        <option value="$PROJECT_DIR$/src/services/editionService.ts" />
+        <option value="$PROJECT_DIR$/tslint.json" />
+        <option value="$PROJECT_DIR$/src/services/firstedition.service.ts" />
+        <option value="$PROJECT_DIR$/src/model/speakermodel/speakermodel.module.ts" />
+        <option value="$PROJECT_DIR$/src/app/speakers/speakers.component.ts" />
+        <option value="$PROJECT_DIR$/src/services/first-edit.service.ts" />
+        <option value="$PROJECT_DIR$/src/app/speakers/speakers.component.html" />
+        <option value="$PROJECT_DIR$/src/app/team/team.component.html" />
+        <option value="$PROJECT_DIR$/src/app/program/program.component.html" />
+        <option value="$PROJECT_DIR$/src/app/gallery/gallery.component.html" />
+        <option value="$PROJECT_DIR$/src/services/EditionsService/editions.service.ts" />
+        <option value="$PROJECT_DIR$/src/app/firstedit/firstedit.component.ts" />
+        <option value="$PROJECT_DIR$/src/assets/css/style.css" />
+        <option value="$PROJECT_DIR$/src/assets/plugins/bootstrap.min.css" />
+        <option value="$PROJECT_DIR$/src/app/header/header.component.html" />
+        <option value="$PROJECT_DIR$/src/app/navbar/navbar.component.html" />
+        <option value="$PROJECT_DIR$/src/app/footer/footer.component.html" />
+        <option value="$PROJECT_DIR$/src/services/SpeakerService/speaker-service.service.ts" />
+        <option value="$PROJECT_DIR$/src/app/home/home.component.css" />
+        <option value="$PROJECT_DIR$/src/styles.css" />
+        <option value="$PROJECT_DIR$/src/app/firstspeaker/firstspeaker.component.ts" />
+        <option value="$PROJECT_DIR$/angular.json" />
+        <option value="$PROJECT_DIR$/src/services/Home/home.service.ts" />
+        <option value="$PROJECT_DIR$/src/app/app-routing.module.ts" />
+        <option value="$PROJECT_DIR$/src/app/firstedit/firstedit.component.html" />
+        <option value="$PROJECT_DIR$/src/app/firstgallery/firstgallery.component.html" />
+        <option value="$PROJECT_DIR$/src/app/firstprogrmm/firstprogrmm.component.html" />
+        <option value="$PROJECT_DIR$/src/app/firstteam/firstteam.component.html" />
+        <option value="$PROJECT_DIR$/src/app/secondedit/secondedit.component.html" />
+        <option value="$PROJECT_DIR$/src/app/secondprogram/secondprogram.component.html" />
+        <option value="$PROJECT_DIR$/src/app/secondgallery/secondgallery.component.html" />
+        <option value="$PROJECT_DIR$/src/app/secondteam/secondteam.component.html" />
+        <option value="$PROJECT_DIR$/src/app/thirdgallery/thirdgallery.component.html" />
+        <option value="$PROJECT_DIR$/src/app/thirdproram/thirdproram.component.html" />
+        <option va

@@ -1,0 +1,148 @@
+<div class="page-wrapper">
+  <app-header></app-header>
+  <app-navbar></app-navbar>
+  <app-slider></app-slider>
+
+
+
+
+  <!--about section-->
+  <section class="feature-section section bg-gray">
+    <div class="container">
+      <div class="row">
+        <div class="col-sm-12 col-xs-12">
+          <div class="image-content">
+            <div class="section-title text-center">
+              <h3>A propos
+
+              </h3>
+              <p class="test1">Industrie 4.0 est le premier événement à Sfax conçu pour dynamiser et faire progresser les
+                zones industrielles dans la région de Sfax tout en considérant les volets économique,
+                écologique, technologique et social. C'est un événement incontournable pour les principaux
+                intervenants de l’écosystème (industriels, universitaires, institutions publiques et privées,
+                etc.) leur donnant l’occasion de rencontrer des spécialistes dans le domaine, établir des
+                réseaux, établir des partenariats et discuter les tendances et les opportunités d'avancement
+                dans le secteur industriel. Différentes sessions seront proposées pour présenter des
+                tendances, des directions et des opportunités de ce domaine.
+                Ce colloque, à but non lucratif et gratuit pour tous les participants, est un évènement d’une
+                grande envergure. Il vise la promotion du secteur industriel selon une nouvelle vision qui
+                tient compte des derniers acquis de la technologie mis au profit de l’écosystème (smart
+                industries)
+                Des sommités scientifiques, des professionnels, des universitaires et de hauts responsables
+                appartenant aux institutions publiques et privées seront présents à ce colloque et feront des
+                interventions d’une valeur inestimable</p>
+            </div>
+
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+  <!--End about section-->
+  <div class="booking">
+    <div class="container" >
+      <div class="row">
+        <div class="col">
+          <div class="booking_title text-center"><h2>Organisateurs</h2></div>
+          <!-- Booking Slider -->
+          <div class="booking_slider_container">
+            <div class="owl-carousel owl-theme booking_slider">
+
+
+
+              <div class="booking_item" *ngFor="let c of organisateurs">
+
+                <img src="assets/images/organisateur/{{c.photo}}" alt="" class="img-responsive">
+                <div class="booking_overlay trans_200"></div>
+                <div class="booking_link"><a href="#"><div style="background-color:#0d95e8"><div style="font-size: 14px;">{{c.nom}}</div></div></a></div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="booking" >
+    <div class="container" >
+      <div class="row">
+        <div class="col">
+          <div class="booking_title text-center"><h2>Sponsors</h2></div>
+          <!-- Booking Slider -->
+          <div class="booking_slider_container">
+            <div class="owl-carousel owl-theme booking_slider">
+
+              <!-- Slide -->
+              <div class="booking_item" *ngFor="let c1 of sponsors">
+                <img src="assets/images/sponsor/{{c1.photo}}" alt="" class="img-responsive">
+                <div class="booking_overlay trans_200"></div>
+                <div class="booking_link"><a href="#"><div style="background-color:#0d95e8"><div style="font-size: 14px;">{{c1.nom}}</div></div></a></div>
+
+              </div>
+
+
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="booking" >
+    <div class="container">
+      <div class="row">
+        <div class="col">
+          <div class="booking_title text-center"><h2>Partenaires</h2></div>
+          <!-- Booking Slider -->
+          <div class="booking_slider_container">
+            <div class="owl-carousel owl-theme booking_slider">
+
+              <!-- Slide -->
+              <div class="booking_item"  *ngFor="let c3 of partenaires">
+                <img src="assets/images/partenaire/{{c3.photo}}" alt="" class="img-responsive">
+                <div class="booking_overlay trans_200"></div>
+                <div class="booking_link"><a href="#"><div style="background-color:#0d95e8"><div style="font-size: 14px;">{{c3.nom}}</div></div></a></div>
+              </div>
+
+
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="booking">
+    <div class="container" >
+      <div class="row">
+        <div class="col">
+          <div class="booking_title text-center"><h2>Médias Partenaires</h2></div>
+          <!-- Booking Slider -->
+          <div class="booking_slider_container">
+            <div class="owl-carousel owl-theme booking_slider">
+
+              <!-- Slide -->
+              <div class="booking_item" *ngFor="let c4 of mediapartenaires">
+                <img src="assets/images/mediapartenaire/{{c4.photo}}" alt="" class="img-responsive">
+                <div class="booking_overlay trans_200"></div>
+                <div class="booking_link"><a href="#"><div style="background-color:#0d95e8"><div style="font-size: 14px;">{{c4.nom}}</div></div></a></div>
+              </div>
+
+
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+
+
+<app-footer></app-footer>
+
+</div>
+
+
+<div class="scroll-to-top scroll-to-target" data-target=".header-top">
+  <span class="icon fa fa-angle-up"></span>
+</div>

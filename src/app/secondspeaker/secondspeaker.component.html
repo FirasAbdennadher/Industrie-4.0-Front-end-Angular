@@ -1,0 +1,145 @@
+<div class="page-wrapper">
+  <app-header></app-header>
+  <app-navbar></app-navbar>
+
+
+  <div class="home">
+    <div class="home_slider_container">
+      <div class="owl-carousel owl-theme home_slider">
+
+        <!-- Slide -->
+        <div class="slide">
+          <div class="background_image" style="background-image:url(assets/images/slider/slider-bg-1.jpg)"></div>
+          <div class="home_container">
+            <div class="container">
+              <div class="row">
+                <div class="col">
+                  <div class="home_content text-center">
+                    <div class="home_title">A Luxury Stay</div>
+                    <div class="booking_form_container">
+                      <form action="#" class="booking_form">
+                        <div class="d-flex flex-xl-row flex-column align-items-start justify-content-start">
+                          <div class="booking_input_container d-flex flex-lg-row flex-column align-items-start justify-content-start">
+                            <div><input type="text" class="datepicker booking_input booking_input_a booking_in" placeholder="Check in" required="required"></div>
+                            <div><input type="text" class="datepicker booking_input booking_input_a booking_out" placeholder="Check out" required="required"></div>
+                            <div><input type="number" class="booking_input booking_input_b" placeholder="Children" required="required"></div>
+                            <div><input type="number" class="booking_input booking_input_b" placeholder="Room" required="required"></div>
+                          </div>
+                          <div><button class="booking_button trans_200">Book Now</button></div>
+                        </div>
+                      </form>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <!-- Slide -->
+        <div class="slide">
+          <div class="background_image" style="background-image:url(assets/images/slider/slider-bg-1.jpg)"></div>
+          <div class="home_container">
+            <div class="container">
+              <div class="row">
+                <div class="col">
+                  <div class="home_content text-center">
+                    <div class="home_title">A Luxury Stay</div>
+                    <div class="booking_form_container">
+                      <form action="#" class="booking_form">
+                        <div class="d-flex flex-xl-row flex-column align-items-start justify-content-start">
+                          <div class="booking_input_container d-flex flex-lg-row flex-column align-items-start justify-content-start">
+                            <div><input type="text" class="datepicker booking_input booking_input_a booking_in" placeholder="Check in" required="required"></div>
+                            <div><input type="text" class="datepicker booking_input booking_input_a booking_out" placeholder="Check out" required="required"></div>
+                            <div><input type="number" class="booking_input booking_input_b" placeholder="Children" required="required"></div>
+                            <div><input type="number" class="booking_input booking_input_b" placeholder="Room" required="required"></div>
+                          </div>
+                          <div><button class="booking_button trans_200">Book Now</button></div>
+                        </div>
+                      </form>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <!-- Slide -->
+        <div class="slide">
+          <div class="background_image" style="background-image:url(assets/images/slider/slider-bg-1.jpg)"></div>
+          <div class="home_container">
+            <div class="container">
+              <div class="row">
+                <div class="col">
+                  <div class="home_content text-center">
+                    <div class="home_title">A Luxury Stay</div>
+                    <div class="booking_form_container">
+                      <form action="#" class="booking_form">
+                        <div class="d-flex flex-xl-row flex-column align-items-start justify-content-start">
+                          <div class="booking_input_container d-flex flex-lg-row flex-column align-items-start justify-content-start">
+                            <div><input type="text" class="datepicker booking_input booking_input_a booking_in" placeholder="Check in" required="required"></div>
+                            <div><input type="text" class="datepicker booking_input booking_input_a booking_out" placeholder="Check out" required="required"></div>
+                            <div><input type="number" class="booking_input booking_input_b" placeholder="Children" required="required"></div>
+                            <div><input type="number" class="booking_input booking_input_b" placeholder="Room" required="required"></div>
+                          </div>
+                          <div><button class="booking_button trans_200">Book Now</button></div>
+                        </div>
+                      </form>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+      </div>
+
+      <!-- Home Slider Dots -->
+      <div class="home_slider_dots_container">
+        <div class="home_slider_dots">
+          <ul id="home_slider_custom_dots" class="home_slider_custom_dots d-flex flex-row align-items-start justify-content-start">
+            <li class="home_slider_custom_dot active">01.</li>
+            <li class="home_slider_custom_dot">02.</li>
+            <li class="home_slider_custom_dot">03.</li>
+          </ul>
+        </div>
+      </div>
+
+    </div>
+  </div>
+
+  <!--team section-->
+  <section class="team-section section">
+    <div class="container">
+      <div class="section-title text-center">
+        <h3>Our Speaker</h3>
+      </div>
+      <div class="row" *ngIf="speaker">
+        <div class="col-md-4 col-sm-6 col-xs-12" *ngFor="let c1 of speaker">
+          <div class="team-member">
+            <img src="assets/images/team/{{c1.photo}}" alt="{{c1.nom}}" class="img-responsive">
+            <div class="contents text-center">
+              <h4>{{c1.nom}}</h4><h3>{{c1.prenom}}</h3>
+              <p><a href="#">{{c1.biblio}}</a></p>
+              <p>{{c1.poste}}</p>
+
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+  <!--End team section-->
+
+  <!--footer-main-->
+  <!--footer-main-->
+  <app-footer></app-footer>  <!--End footer-main-->
+</div>
+<!--End pagewrapper-->
+
+<!--Scroll to top-->
+<div class="scroll-to-top scroll-to-target" data-target=".header-top">
+  <span class="icon fa fa-angle-up"></span>
+</div>
